@@ -4,6 +4,7 @@
 
 - <b>Mini Projects!!</b>
   - [Quadtree Image Analysis: analyses images using the quadtree data structure](https://github.com/KoopaHello/QuadtreeImageAnalysis)
+  - [Binary Tree implementation in C++ to help learn it](https://github.com/KoopaHello/treestuff)
 - <b>Game Development</b>
   - [MVMNT: A 3D Parkour Game for virtual reality headsets](https://sidequestvr.com/app/5326/mvmnt-demo)
   - [SwordShapes: 2D Combat Game made with a friend](https://github.com/KoopaHello/SwordShapes)
