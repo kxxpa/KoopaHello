@@ -1,4 +1,4 @@
-<h1>I'm Koopa <br/><a href="https://github.com/koopahello">Programmer</a>, <a href="https://github.com/koopahello">Cybersecurity Nerd</a></h1>
+<h1>I'm Koopa <br/><a href="https://github.com/koopahello">Programmer</a>, <a href="https://github.com/koopahello">Fascinated in Cybersecurity</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
